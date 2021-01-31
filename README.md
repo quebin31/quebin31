@@ -1,6 +1,6 @@
 ## Hi there, I'm Kevin 🐒
 
-🎓 _Computer Scientist at [San Agustin National University Arequipa](https://www.unsa.edu.pe/en/)_.
+🎓 _Computer Science at [San Agustin National University Arequipa](https://www.unsa.edu.pe/en/)_.
 
 🦀 **_I ❤️ Rust_**
 
