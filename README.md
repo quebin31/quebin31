@@ -2,10 +2,6 @@
 
 🎓 _Computer Scientist at [San Agustin National University Arequipa](https://www.unsa.edu.pe/en/)_.
 
-💼 _Open for hire_
-
-🐉 _Dragons are cool_
-
 🦀 **_I ❤️ Rust_**
 
 ![quebin31's github stats](https://github-readme-stats.vercel.app/api?username=quebin31&show_icons=true)
