@@ -2,18 +2,17 @@
 
 🎓 _Computer Science at [San Agustin National University Arequipa](https://www.unsa.edu.pe/en/)_.
 
-🦀 **_I ❤️ Rust_**
-
 ![quebin31's github stats](https://github-readme-stats.vercel.app/api?username=quebin31&show_icons=true)
 
 ### 💻 Programming 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quebin31&hide=c)
 
 ### 📚 Topics of interest
+- Android programming (and multiplatform UI with Compose)
 - Systems programming
 - Cloud computing 
 - API Development
-- Deep Learning 
+- Cybersecurity and networking
 - Linux (_btw, i use arch_)
 
 ### 🔨 Projects and contributions 
