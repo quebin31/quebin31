@@ -5,6 +5,8 @@
 ![quebin31's github stats](https://github-readme-stats.vercel.app/api?username=quebin31&show_icons=true)
 
 ### 💻 Programming 
+I love Kotlin and Rust ❤️
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quebin31&hide=c)
 
 ### 📚 Topics of interest
