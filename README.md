@@ -1,6 +1,6 @@
 ## Hi there, I'm Kevin 🐒
 
-🎓 _Computer Science at [San Agustin National University Arequipa](https://www.unsa.edu.pe/en/)_.
+🎓 _Computer Science at [Universidad Nacional de San Agustín](https://www.unsa.edu.pe/en/)_.
 
 ![quebin31's github stats](https://github-readme-stats.vercel.app/api?username=quebin31&show_icons=true)
 
@@ -10,12 +10,13 @@ I love Kotlin and Rust ❤️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quebin31&hide=c)
 
 ### 📚 Topics of interest
-- Android programming (and multiplatform UI with Compose)
 - Systems programming
+- Backend development
+- Android development (and multiplatform UI with Compose)
 - Cloud computing 
 - API Development
-- Cybersecurity and networking
-- Linux (_btw, i use arch_)
+- Cybersecurity and Networking
+- Linux (Arch Linux, Fedora, Debian)
 
 ### 🔨 Projects and contributions 
 - 🦀 [`muso`](https://github.com/quebin31/muso), sort your music library using file metadata.
@@ -25,7 +26,7 @@ I love Kotlin and Rust ❤️
 - 🐍 [`icl-vae`](https://github.com/quebin31/icl-vae), incremental class learning using a _variational autoencoder_.
 
 ### 📨 Contact
-- **GitHub:** _emmm_, [quebin31](https://github.com/quebin31)
+- **GitHub:** [quebin31](https://github.com/quebin31) (_have you heard of recursiveness?_)
 - **Email:** [quebin31@gmail.com](mailto:quebin31@gmail.com)
 - **LinkedIn:** [kdelcastillo31](https://www.linkedin.com/in/kdelcastillo31/)
 
